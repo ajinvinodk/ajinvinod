@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajinvinod
+- 👋 Hi, I’m @ajinvinodk
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently studying in IIT Mandi -Mtech
 - 💞️ I’m looking to collaborate on ...
