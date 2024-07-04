@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajinvinodk
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently studying in IIT Mandi -Mtech
+- 👀 I’m interested in AI/ML
+- 🌱 I completed my post grad in IIT Mandi(Mtech CSP)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ajinvinodk@gmail.com
   
